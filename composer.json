@@ -1,5 +1,5 @@
 {
-  "name": "breithbarbot/cropper-bundle",
+  "name": "ardupadawan/cropper-bundle",
   "type": "symfony-bundle",
   "description": "Simple cropping tool for Symfony",
   "homepage": "https://github.com/breithbarbot/cropper-bundle",

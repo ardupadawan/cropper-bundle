@@ -2,7 +2,7 @@
   "name": "ardupadawan/cropper-bundle",
   "type": "symfony-bundle",
   "description": "Simple cropping tool for Symfony",
-  "homepage": "https://github.com/breithbarbot/cropper-bundle",
+  "homepage": "https://github.com/ardupadawan/cropper-bundle",
   "readme": "README.md",
   "license": "MIT",
   "authors": [

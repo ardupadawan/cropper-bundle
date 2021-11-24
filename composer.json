@@ -52,10 +52,5 @@
   },
   "support": {
     "docs": "https://github.com/breithbarbot/cropper-bundle/blob/master/Resources/doc/index.md"
-  },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.x-dev"
-        }
-    }
+  }
 }
